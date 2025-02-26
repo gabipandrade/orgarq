@@ -1,3 +1,3 @@
 # Organização de computadores
-repositorio para os exercícios da 
+Repositorio para os exercícios resolvidos da 
 disciplina de organização de computadores
